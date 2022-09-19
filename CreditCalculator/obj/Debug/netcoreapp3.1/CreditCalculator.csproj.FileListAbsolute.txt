@@ -1,0 +1,15 @@
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\CreditCalculator.exe
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\CreditCalculator.deps.json
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\CreditCalculator.runtimeconfig.json
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\CreditCalculator.runtimeconfig.dev.json
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\CreditCalculator.dll
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\CreditCalculator.pdb
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.csprojAssemblyReference.cache
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.AssemblyInfoInputs.cache
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.AssemblyInfo.cs
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.dll
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.pdb
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.genruntimeconfig.cache
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\tbathiya\RiderProjects\CreditCalc\CreditCalculator\obj\Debug\netcoreapp3.1\CreditCalculator.csproj.CopyComplete
