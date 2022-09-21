@@ -5,14 +5,8 @@ using NUnit.Framework;
 namespace CreditNUnitTests
 {
 	[TestFixture]
-	public class Tests
+	public class CalcUnitTests
 	{
-		[SetUp]
-		public void Init()
-		{
-			
-		}
-		
 		[Test]
 		[TestCaseSource(typeof(ProcessCreditGenerator), nameof(ProcessCreditGenerator.AllAgesWithMaxPoints))]
 		public void ifUser_HasPointsMoreThanAge_CreditToBeApprovedForAgeGroup(AgeGroups sst, ProcessCredit process)
@@ -99,6 +93,15 @@ namespace CreditNUnitTests
 			var process = new ProcessCredit(new CreditCalculator.AnzCreditCalculator());
 			
 			Assert.AreEqual(400, process.ProcessCustomerCredit(customer));
+		}
+		
+		[Test]
+		public void ifUser_HasBelow450CreditScore_CreditApprovalFalse()
+		{
+			var customer = new Customer(200, 0, 10, 30);
+			var process = new ProcessCredit(new CreditCalculator.AnzCreditCalculator());
+			
+			Assert.False(process.ProcessCustomerCredit(customer) > 0);
 		}
 	}
 }
