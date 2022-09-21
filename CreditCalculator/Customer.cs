@@ -17,6 +17,6 @@
 			MissedPaymentCount = missedPaymentCount;
 			CompletedPaymentCount = completedPaymentCount;
 			AgeInYears = ageInYears;
-		}	
+		}
 	}
 }

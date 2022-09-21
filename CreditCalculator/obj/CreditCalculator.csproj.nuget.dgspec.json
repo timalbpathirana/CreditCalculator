@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\CreditCalculator.csproj": {}
+    "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\CreditCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\CreditCalculator.csproj": {
+    "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\CreditCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\CreditCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\CreditCalculator.csproj",
         "projectName": "CreditCalculator",
-        "projectPath": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\CreditCalculator.csproj",
+        "projectPath": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\CreditCalculator.csproj",
         "packagesPath": "C:\\Users\\tbathiya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\obj\\",
+        "outputPath": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

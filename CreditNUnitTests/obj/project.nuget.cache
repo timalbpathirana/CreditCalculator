@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EuzKLT8/a3pz4D3CZRfnjDQFFsc0aJPeImZT0vilJEaGvE8OpdEW+b1VlDC+j+F9jXedFp6M8C3dghMhFvFoFg==",
+  "dgSpecHash": "7R06gF5NKQ/UGLoQ8NJjpF99ZqHaXgMXKDlo/+sNeqt8c8cT/J6lNREUfh+rHRLXxYR7agFdpVfmmFhNOCqFUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditNUnitTests\\CreditNUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditNUnitTests\\CreditNUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tbathiya\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\tbathiya\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

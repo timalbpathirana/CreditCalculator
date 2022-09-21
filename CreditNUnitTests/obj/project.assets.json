@@ -4642,11 +4642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditNUnitTests\\CreditNUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditNUnitTests\\CreditNUnitTests.csproj",
       "projectName": "CreditNUnitTests",
-      "projectPath": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditNUnitTests\\CreditNUnitTests.csproj",
+      "projectPath": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditNUnitTests\\CreditNUnitTests.csproj",
       "packagesPath": "C:\\Users\\tbathiya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditNUnitTests\\obj\\",
+      "outputPath": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditNUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4663,8 +4663,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\CreditCalculator.csproj": {
-              "projectPath": "C:\\Users\\tbathiya\\RiderProjects\\CreditCalc\\CreditCalculator\\CreditCalculator.csproj"
+            "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\CreditCalculator.csproj": {
+              "projectPath": "C:\\Users\\tbathiya\\Documents\\creditProject\\CreditCalculator\\CreditCalculator\\CreditCalculator.csproj"
             }
           }
         }
